@@ -40,6 +40,7 @@ const Avatar = (props) =>{
         <h1>Welcome to Avatar</h1>
             {avatararraycard}
         <button> Subscribe</button>
+        <button>UnSubscribe</button>
         </div>
     )
 }

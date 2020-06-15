@@ -7,6 +7,7 @@ class Demo extends Component{
         return <div className="maindiv_style"> 
                     <h1>Hello {this.props.name}</h1>
                     <p>Welcome to my React App</p>
+                    <p>after edit</p>
                 </div>
     }
 }
